@@ -11,7 +11,7 @@ Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conheci
   
 - 🎓 **Especialista em Gestão de Projetos** no [Stella Maris](https://www.instagram.com/faculdadestellamarisoficial/), onde aprofundei meus estudos sobre gestão de projetos.
 
-- - 🎓 **Especialista em Desenvolvimento Web e Mobile** no [IFECT-MG](https://www.ifsudestemg.edu.br/riopomba), onde aprofundei meus estudos sobre desenvolvimento web e mobile e tecnologias emergentes de IA.
+- 🎓 **Especialista em Desenvolvimento Web e Mobile** no [IFECT-MG](https://www.ifsudestemg.edu.br/riopomba), onde aprofundei meus estudos sobre desenvolvimento web e mobile e tecnologias emergentes de IA.
 
 ## 📱 **Especialidades**
 - Analista de Sistemas **Web e Mobile**, com sólida experiência em **Html, Css, JavaScript, React, Vue, Angular, Java, Php, Sql, Mysql**.
