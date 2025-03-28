@@ -1,40 +1,76 @@
-## Hi there 👋
+---
 
-# Olá, eu sou Wendel Tadeu, você está no repositorio da minha empresa WTNSCTI 👋
+# 👋 Olá, eu sou Wendel Tadeu!  
 
-✨ **IT CONSULTANT E EMBAIXADOR DIO** na [DIO](https://digitalinnovation.one/) | Entusiasta de **Tecnologia**, **Educação** e **Inteligência Artificial Generativa**
+## 🚀 Bem-vindo ao repositório da **WTNSCTI**  
 
-Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conhecimento em Analise de Sistemas, Analise de Negócios, Gestão de Projetos e IA com a comunidade. 💡
+Sou um **Analista de Sistemas Sênior** e entusiasta de **Inteligência Artificial e Aprendizado de Máquina**, apaixonado por inovação e tecnologia. Como **IT Consultant e Embaixador DIO** na [DIO](https://digitalinnovation.one/), busco sempre compartilhar conhecimento e contribuir para a comunidade.  
 
-## 🏢 **Atuação Profissional**
-- 🚀 **System Analyst Sênior** no time de **WTNSCTI** Minha empresa de consultoria, liderando projetos de impacto nas áreas de **Varejo, E-commerce, Bancos**.
-  
-- 🎓 **Especialista em Gestão de Projetos** no [Stella Maris](https://www.instagram.com/faculdadestellamarisoficial/), onde aprofundei meus estudos sobre gestão de projetos.
+---
 
-- 🎓 **Especialista em Desenvolvimento Web e Mobile** no [IFECT-MG](https://www.ifsudestemg.edu.br/riopomba), onde aprofundei meus estudos sobre desenvolvimento web e mobile e tecnologias emergentes de IA.
+## 🎯 **Sobre Mim**  
 
-## 📱 **Especialidades**
-- Analista de Sistemas **Web e Mobile**, com sólida experiência em **Html, Css, JavaScript, React, Vue, Angular, Java, Php, Sql, Mysql**.
-- Entusiasta de **Inteligência Artificial Generativa**, **Aprendizado de Máquina** e **Padrões de Projeto**, explorando como tecnologias de IA é utilizada no desenvolvimento em empresas de e-commerce e marketplaces.
-- Experiência com **arquitetura de software**, **Sistemas Web e Mobile**, **Análise de Negócios**, **Levantamento de Requisitos**, **Metodologias Ágeis**, **boas práticas de desenvolvimento** e **Gestão de Projetos**.
+💡 **Especialista em Análise de Sistemas e Desenvolvimento Web & Mobile** com forte atuação no setor de **Varejo, E-commerce e Bancos**.  
 
-## 🚀 **O que me motiva:**
-- Criar, soluções tecnológicas Web e Mobile inovadoras para impactar a vida de milhares de pessoas.
-- Estudar e aplicar **Inteligência Artificial** e **Aprendizado de Máquinas** em projetos de desenvolvimento web e mobile para gerar mais eficiência.
+📌 Interessado em como **Inteligência Artificial Generativa** e **Machine Learning** podem otimizar o desenvolvimento de software e impulsionar negócios digitais.  
 
-## 📊 **Estatísticas no GitHub**
+📚 Comprometido com a inovação e a educação, compartilho experiências sobre **Análise de Negócios, Gestão de Projetos e Arquitetura de Software**.  
 
-![WTNSCTI GitHub stats](https://github-readme-stats.vercel.app/api?username=wtnscti&show_icons=true&theme=dark)
+🚀 Fundador da **WTNSCTI**, minha empresa de consultoria em tecnologia, onde desenvolvo soluções estratégicas para grandes desafios do mercado.  
 
-## 📌 **Projetos em Destaque**
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=tcc-ifsuldestemg-web&theme=dark)]([https://github.com/wtnscti/tcc-ifsuldestemg-web)
+## 💼 **Experiência Profissional**  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=ticemtrilhas&theme=dark)]([https://github.com/wtnscti/ticemtrilhas)
+- **System Analyst Sênior** na **WTNSCTI**, liderando projetos estratégicos para **Varejo, E-commerce e Bancos**.  
+- **Especialista em Gestão de Projetos** pela [Stella Maris](https://www.instagram.com/faculdadestellamarisoficial/), com foco em **metodologias ágeis** e **boas práticas de desenvolvimento**.  
+- **Especialista em Desenvolvimento Web e Mobile** pelo [IFECT-MG](https://www.ifsudestemg.edu.br/riopomba), com ênfase em **tecnologias emergentes de IA**.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=dio-lab-open-source&theme=dark)]([https://github.com/wtnscti/dio-lab-open-source)
+---
 
-## 🚀 **Linguagens Mais Usadas**
+## 🛠 **Habilidades Técnicas**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtnscti&layout=compact&theme=dark)
+✅ **Desenvolvimento Web & Mobile**:  
+✔️ HTML, CSS, JavaScript, React, Vue, Angular, Java, PHP, SQL, MySQL.  
+
+✅ **Inteligência Artificial & Machine Learning**:  
+✔️ Modelagem de dados, IA generativa, integração de IA em sistemas web e mobile.  
+
+✅ **Arquitetura e Engenharia de Software**:  
+✔️ Padrões de Projeto, APIs, Microsserviços, Banco de Dados e Segurança da Informação.  
+
+✅ **Gestão e Metodologias Ágeis**:  
+✔️ Scrum, Kanban, Design Thinking, Lean IT.  
+
+---
+
+## 🎯 **O que me motiva?**  
+
+✨ Criar soluções inovadoras em **Web e Mobile** que impactam vidas.  
+🤖 Explorar o potencial da **Inteligência Artificial e Aprendizado de Máquina** para transformar negócios.  
+📢 Compartilhar conhecimento e contribuir com a comunidade de tecnologia.  
+
+---
+
+## 📊 **Estatísticas no GitHub**  
+
+![WTNSCTI GitHub stats](https://github-readme-stats.vercel.app/api?username=wtnscti&show_icons=true&theme=dark)  
+
+---
+
+## 🚀 **Projetos em Destaque**  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=tcc-ifsuldestemg-web&theme=dark)](https://github.com/wtnscti/tcc-ifsuldestemg-web)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=ticemtrilhas&theme=dark)](https://github.com/wtnscti/ticemtrilhas)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=dio-lab-open-source&theme=dark)](https://github.com/wtnscti/dio-lab-open-source)  
+
+---
+
+## 📌 **Linguagens Mais Utilizadas**  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtnscti&layout=compact&theme=dark)  
+
+---
 
