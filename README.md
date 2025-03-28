@@ -30,8 +30,7 @@ Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conheci
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=ticemtrilhas&theme=dark)]([https://github.com/wtnscti/ticemtrilhas)
 
 
-
 ## 🚀 **Linguagens Mais Usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtnscti&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtnscti/ticemtrilhas&layout=compact&theme=dark)
 
