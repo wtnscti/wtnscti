@@ -21,13 +21,13 @@ Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conheci
 
 ## 📊 **Estatísticas no GitHub**
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dark)
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtnscti&show_icons=true&theme=dark)
 
 ## 📌 **Projetos em Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=phd-thesis&theme=dark)]([https://github.com/falvojr/phd-thesis](https://github.com/wtnscti/tcc-ifsuldestemg-web))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=phd-thesis&theme=dark)]([https://github.com/wtnscti/phd-thesis](https://github.com/wtnscti/tcc-ifsuldestemg-web))
 
 ## 🚀 **Linguagens Mais Usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtnscti&layout=compact&theme=dark)
 
