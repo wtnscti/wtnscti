@@ -4,24 +4,27 @@
 
 ✨ **IT CONSULTANT E EMBAIXADOR DIO** na [DIO](https://digitalinnovation.one/) | Entusiasta de **Tecnologia**, **Educação** e **Inteligência Artificial Generativa**
 
-Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conhecimento em Analise de Sistemas e IA com a comunidade. 💡
+Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conhecimento em Analise de Sistemas, Analise de Negócios, Gestão de Projetos e IA com a comunidade. 💡
 
 ## 🏢 **Atuação Profissional**
 - 🚀 **System Analyst Sênior** no time de **WTNSCTI** Minha empresa de consultoria, liderando projetos de impacto nas áreas de **Varejo, E-commerce, Bancos**.
-- 🎓 **Especialista em Gestão de Projetos e Análise e Desenvolvimento Web e Mobile** no [IFECT-MG](https://www.ifsudestemg.edu.br/riopomba), onde aprofundei meus estudos sobre desenvolvimento web e mobile e tecnologias emergentes de IA.
+  
+- 🎓 **Especialista em Gestão de Projetos** no [Stella Maris](https://www.instagram.com/faculdadestellamarisoficial/), onde aprofundei meus estudos sobre gestão de projetos.
+
+- - 🎓 **Especialista em Desenvolvimento Web e Mobile** no [IFECT-MG](https://www.ifsudestemg.edu.br/riopomba), onde aprofundei meus estudos sobre desenvolvimento web e mobile e tecnologias emergentes de IA.
 
 ## 📱 **Especialidades**
-- Desenvolvedor **Mobile Android**, com sólida experiência em **Java** e **Kotlin**.
-- Entusiasta de **Inteligência Artificial Generativa**, explorando como tecnologias de IA podem transformar a maneira como desenvolvemos e interagimos com softwares.
-- Experiência com **arquitetura de software**, **boas práticas de desenvolvimento** e **performance em aplicativos Android**.
+- Analista de Sistemas **Web e Mobile**, com sólida experiência em **Html, Css, JavaScript, React, Vue, Angular, Java, Php, Sql, Mysql**.
+- Entusiasta de **Inteligência Artificial Generativa**, **Aprendizado de Máquina** e **Padrões de Projeto**, explorando como tecnologias de IA é utilizada no desenvolvimento em empresas de e-commerce e marketplaces.
+- Experiência com **arquitetura de software**, **Sistemas Web e Mobile**, **Análise de Negócios**, **Levantamento de Requisitos**, **Metodologias Ágeis**, **boas práticas de desenvolvimento** e **Gestão de Projetos**.
 
 ## 🚀 **O que me motiva:**
-- Criar soluções tecnológicas inovadoras para impactar a vida de milhares de pessoas.
-- Estudar e aplicar **Inteligência Artificial** em projetos de desenvolvimento mobile para gerar mais eficiência e criatividade.
+- Criar, soluções tecnológicas Web e Mobile inovadoras para impactar a vida de milhares de pessoas.
+- Estudar e aplicar **Inteligência Artificial** e **Aprendizado de Máquinas** em projetos de desenvolvimento web e mobile para gerar mais eficiência.
 
 ## 📊 **Estatísticas no GitHub**
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtnscti&show_icons=true&theme=dark)
+![WTNSCTI GitHub stats](https://github-readme-stats.vercel.app/api?username=wtnscti&show_icons=true&theme=dark)
 
 ## 📌 **Projetos em Destaque**
 
