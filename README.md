@@ -25,7 +25,7 @@ Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conheci
 
 ## 📌 **Projetos em Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=phd-thesis&theme=dark)]([https://github.com/wtnscti/tcc-ifsuldestemg-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wtnscti&repo=tcc-ifsuldestemg-web&theme=dark)]([https://github.com/wtnscti/tcc-ifsuldestemg-web)
 
 ## 🚀 **Linguagens Mais Usadas**
 
